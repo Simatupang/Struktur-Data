@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1491374496 source:d:\tubes asd hovbin\tubes std attack\buku.cpp
+	"buku.h"
+
+1491374496 d:\tubes asd hovbin\tubes std attack\buku.h
+	<iostream>
+	<string>
+
+1491374496 source:d:\tubes asd hovbin\tubes std attack\fungsionalitas.cpp
+	"Fungsionalitas.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1491374496 d:\tubes asd hovbin\tubes std attack\fungsionalitas.h
+	"relasi.h"
+
+1491374496 d:\tubes asd hovbin\tubes std attack\relasi.h
+	<iostream>
+	"buku.h"
+	"jadwal.h"
+
+1491374496 d:\tubes asd hovbin\tubes std attack\jadwal.h
+	<iostream>
+	<string>
+
+1491374496 source:d:\tubes asd hovbin\tubes std attack\jadwal.cpp
+	"jadwal.h"
+
+1491374496 source:d:\tubes asd hovbin\tubes std attack\main.cpp
+	<iostream>
+	"Fungsionalitas.h"
+
+1491374496 source:d:\tubes asd hovbin\tubes std attack\relasi.cpp
+	"relasi.h"
+	"buku.h"
+	"jadwal.h"
+
+1491374496 source:d:\materi kuliah\kuliah semester 2\tubes asd hovbin\tubes std attack\buku.cpp
+	"buku.h"
+
+1491374496 d:\materi kuliah\kuliah semester 2\tubes asd hovbin\tubes std attack\buku.h
+	<iostream>
+	<string>
+
+1491374496 source:d:\materi kuliah\kuliah semester 2\tubes asd hovbin\tubes std attack\fungsionalitas.cpp
+	"Fungsionalitas.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1491374496 d:\materi kuliah\kuliah semester 2\tubes asd hovbin\tubes std attack\fungsionalitas.h
+	"relasi.h"
+
+1491374496 d:\materi kuliah\kuliah semester 2\tubes asd hovbin\tubes std attack\relasi.h
+	<iostream>
+	"buku.h"
+	"jadwal.h"
+
+1491374496 d:\materi kuliah\kuliah semester 2\tubes asd hovbin\tubes std attack\jadwal.h
+	<iostream>
+	<string>
+
+1491374496 source:d:\materi kuliah\kuliah semester 2\tubes asd hovbin\tubes std attack\jadwal.cpp
+	"jadwal.h"
+
+1491374496 source:d:\materi kuliah\kuliah semester 2\tubes asd hovbin\tubes std attack\main.cpp
+	<iostream>
+	"Fungsionalitas.h"
+
+1491374496 source:d:\materi kuliah\kuliah semester 2\tubes asd hovbin\tubes std attack\relasi.cpp
+	"relasi.h"
+	"buku.h"
+	"jadwal.h"
+
